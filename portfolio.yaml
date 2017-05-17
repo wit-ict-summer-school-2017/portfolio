@@ -1,0 +1,10 @@
+
+title: 'WIT ICT SKills Summer School 2017'
+credits: 'Department of Computing & Mathematics, WIT'
+gitterid: 'https://gitter.im/wit-ict-summer-school-2017/home'
+courseGroups:
+  - title: 'Workshops'
+    modules:
+      - glitch-course-web
+      - rh-course-web
+      - partner-course-web

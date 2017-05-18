@@ -5,6 +5,7 @@ gitterid: 'https://gitter.im/wit-ict-summer-school-2017/home'
 courseGroups:
   - title: 'Workshops'
     modules:
+      - programme-guide
       - glitch-course-web
       - rh-course-web
       - partner-course-web

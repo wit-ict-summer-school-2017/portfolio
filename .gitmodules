@@ -1,0 +1,12 @@
+[submodule "glitch-course-web"]
+	path = glitch-course-web
+	url = https://github.com/wit-ict-summer-school-2017/glitch-course-web.git
+[submodule "rh-course-web"]
+	path = rh-course-web
+	url = https://github.com/wit-ict-summer-school-2017/rh-course-web.git
+[submodule "partner-course-web"]
+	path = partner-course-web
+	url = https://github.com/wit-ict-summer-school-2017/partner-course-web.git
+[submodule "programme-guide"]
+	path = programme-guide
+	url = https://github.com/wit-ict-summer-school-2017/programme-guide.git
